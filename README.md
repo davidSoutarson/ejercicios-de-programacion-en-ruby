@@ -72,8 +72,11 @@ Tu peux modifier les fichiers pour tester différentes tailles ou symboles direc
 
 ## 🧑‍💻 Auteur
 
-**David Soutarson**  
-Formation : Intégrateur / Développeur Web et Mobile  
+
+**MatiasVME/ejercicios-de-programacion-en-ruby
+
+**reutiliser pour apentisage David Soutarson**  
+Formation : thp  
 GitHub : [@davidSoutarson](https://github.com/davidSoutarson)
 
 ---
