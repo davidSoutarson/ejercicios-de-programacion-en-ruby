@@ -1,8 +1,20 @@
 
-# 🧠 Projet Ruby - Exercices Logiques (Formation THP)
+# 🧠 Projet d'apprentissage Ruby basé sur les exercices de MatiasVME
 
-Ce dépôt contient une série d’exercices réalisés en Ruby dans le cadre de ma formation **The Hacking Project**. Chaque exercice est une mini-application en ligne de commande visant à travailler la logique algorithmique, l'affichage console, et la manipulation de chaînes et boucles.
+> 📚 **Projet personnel d’apprentissage - non destiné à la production**
 
+Ce dépôt contient une série d’exercices en Ruby **réalisés par MatiasVME** dans le cadre de l’apprentissage algorithmique via **ASCII Art**.  
+Je m’en suis **servi personnellement dans un objectif pédagogique**, lors de ma formation **The Hacking Project (THP)**.
+
+Le projet original est disponible ici :  
+🔗 [MatiasVME/ejercicios-de-programacion-en-ruby](https://github.com/MatiasVME/ejercicios-de-programacion-en-ruby)
+
+---
+## 🧰 Prérequis
+
+- Ruby ≥ 2.5  
+- Un terminal (macOS/Linux) ou Git Bash (Windows)
+- Éditeur de texte type VS Code, Sublime Text ou autre
 ---
 
 ## 📁 Structure du projet
@@ -70,23 +82,27 @@ Tu peux modifier les fichiers pour tester différentes tailles ou symboles direc
 
 ---
 
-## 🧑‍💻 Auteur
+## 🧑‍💻 Auteurs et sources
 
+Ce projet est une adaptation à visée pédagogique du dépôt :
+👉 [MatiasVME/ejercicios-de-programacion-en-ruby](https://github.com/MatiasVME/ejercicios-de-programacion-en-ruby)
 
-## MatiasVME/ejercicios-de-programacion-en-ruby
+Réutilisé, structuré et testé par **David Soutarson**  
+🎓 Formation suivie : The Hacking Project (THP)  
+🔗 GitHub : [@davidSoutarson](https://github.com/davidSoutarson)
 
-**reutiliser pour apentisage par David Soutarson**  
-Formation : thp  
-GitHub : [@davidSoutarson](https://github.com/davidSoutarson)
 
 ---
-voire le tutorille sur youtube
+🎥 Voir le tutoriel sur YouTube : 
 https://www.youtube.com/playlist?list=PLCCvCjJoQ5QVJlvwF1Rk9AQtc0XINEXZL
 ---
 
 ## 📜 Licence
 
-Projet réalisé dans le cadre d'une formation. Usage libre à des fins d'apprentissage.
+Projet adapté dans le cadre d’une formation à des fins d’apprentissage personnel.  
+Tout le contenu original reste la propriété de son auteur, [MatiasVME](https://github.com/MatiasVME).
+
+> 📚 **Projet personnel d’apprentissage - non destiné à la production**
 
 
 
