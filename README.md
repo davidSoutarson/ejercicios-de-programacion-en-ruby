@@ -73,7 +73,7 @@ Tu peux modifier les fichiers pour tester différentes tailles ou symboles direc
 ## 🧑‍💻 Auteur
 
 
-**MatiasVME/ejercicios-de-programacion-en-ruby
+## MatiasVME/ejercicios-de-programacion-en-ruby
 
 **reutiliser pour apentisage David Soutarson**  
 Formation : thp  
