@@ -75,7 +75,7 @@ Tu peux modifier les fichiers pour tester différentes tailles ou symboles direc
 
 ## MatiasVME/ejercicios-de-programacion-en-ruby
 
-**reutiliser pour apentisage David Soutarson**  
+**reutiliser pour apentisage par David Soutarson**  
 Formation : thp  
 GitHub : [@davidSoutarson](https://github.com/davidSoutarson)
 
